@@ -1,0 +1,34 @@
+{
+  "name": "knockout-viewmodel",
+  "version": "2.1.0",
+  "description": "Fork from The knockout viewmodel plugin is the fastest, smallest, cleanest, most flexible way to create a knockout viewmodel. With typescript and Module support.",
+  "main": "knockout.viewmodel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olavorn/knockout.viewmodel.git"
+  },
+  "keywords": [
+    "knockout",
+    "viewmodel",
+    "CommonJs",
+    "AMD",
+    "Typescript"
+  ],
+  "author": "Olavo Rocha Neto (forked from Dave Herren's knockout.viewmodel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olavorn/knockout.viewmodel/issues"
+  },
+  "homepage": "https://github.com/olavorn/knockout.viewmodel#readme",
+  "types":"knockout.viewmodel.d.ts",
+  "files":[
+      "knockout.viewmodel.js",
+      "knockout.viewmodel.d.ts"
+  ],
+  "dependencies":{
+      "knockout":"3.4.1"
+  }
+}

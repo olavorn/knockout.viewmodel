@@ -1,4 +1,16 @@
-The knockout viewmodel plugin, Copyright (c) 2012 Dave Herren
+## Knockout-viewmodel UMD Version ##
+Adapted by Olavo Rocha Neto (npm: olavoneto);
+Supports Typescript and AMD/CommonJs
+
+==================
+Installation
+npm knockout-viewmodel --save
+
+==================
+
+
+
+Forked from The knockout viewmodel plugin, Copyright (c) 2012 Dave Herren.
 
 The MIT License (MIT)
 ==================
