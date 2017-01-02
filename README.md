@@ -1,14 +1,12 @@
-## Knockout-viewmodel UMD Version ##
+## Knockout Viewmodel (UMD Version) ##
+
 Adapted by Olavo Rocha Neto (npm: olavoneto);
 Supports Typescript and AMD/CommonJs
 
-==================
-Installation
+# Installing
+```
 npm knockout-viewmodel --save
-
-==================
-
-
+```
 
 Forked from The knockout viewmodel plugin, Copyright (c) 2012 Dave Herren.
 
